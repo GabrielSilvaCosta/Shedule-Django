@@ -1,0 +1,4 @@
+# Arquivos e diretórios do ambiente virtual
+.venv/
+venv/
+__pycache__/
